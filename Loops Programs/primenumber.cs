@@ -16,7 +16,7 @@ using System.Threading.Tasks;
 
 //            m = num / 2;
 //            for (i=2;i<=m;i++)
-//            {
+//            { 
 //                if (num%i==0)
 //                {
 //                    Console.WriteLine("Number is  not  Prime ");
