@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 //namespace Loops_Programs
 //{
-//    internal class prime2                 //Print prime numbers between 1- 100 .
+//    internal class prime2                 //Print prime numbers between 1- 100 ....
 //    {
 //        static void Main(string[] args)
 //        {
