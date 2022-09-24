@@ -48,6 +48,7 @@
     <Compile Include="fibonacciseries.cs" />
     <Compile Include="numbersprint.cs" />
     <Compile Include="oddcount.cs" />
+    <Compile Include="Pallindrome.cs" />
     <Compile Include="prime2.cs" />
     <Compile Include="primenumber.cs" />
     <Compile Include="Program.cs" />

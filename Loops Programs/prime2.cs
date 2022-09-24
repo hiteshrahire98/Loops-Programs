@@ -26,11 +26,11 @@ using System.Threading.Tasks;
 //                }
 //                if (isPrime)
 //                {
-//                    Console.Write("\t" + i );
+//                    Console.Write("\t" + i);
 //                }
 //                isPrime = true;
 //            }
-           
+
 //        }
 //    }
 //}
